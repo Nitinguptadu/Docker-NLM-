@@ -4,7 +4,9 @@
 # Testing Docker on linix and introduction to basic commands
 
 docker images  -- for checking all images in local dir 
+
 docker ps      -- it shows all running containers 
+
 docker ps -a  -- it shows all containers 
 
 # deleting dockers from local repo 
@@ -12,19 +14,29 @@ docker ps -a  -- it shows all containers
 # first delete the docker container 
 
 1)check all conatiners 4
+
 docker ps -a
+
 2) then delete the conatiners 
+
 docker rm container-id
+
 3)check docker images 
+
 docker images 
+
 4)Delete docker images
+
 docker rmi docker-image-id
+
 5) Delete all docker images in one command
+
 docker rm $ (docker ps -a -q)
 
 # Dockerizing your python application
 
 step 1 create Dockerfile 
+
 step 2 create requirements.txt
 
 after creating all required file 
