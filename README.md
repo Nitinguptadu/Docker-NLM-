@@ -60,6 +60,8 @@ docker run -ti --name my_first__NML_docker_conatiner nml
 d) upper command to rename your docker image
 
 
+youtube video reffernce link https://www.youtube.com/watch?v=8uaDoMuDK6E&list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr
+
 
 
 
