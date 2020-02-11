@@ -60,6 +60,19 @@ docker run -ti --name my_first__NML_docker_conatiner nml
 d) upper command to rename your docker image
 
 
+Pushing Docker iamge to Docker Hub
+
+step1  create docker repo on docker hub
+
+
+step 2 docker tag 845f6f67c65a 06210621/exp_0621:latest ( exp_0621 is my repo name on docker hub at this place code will be pushed 
+
+step 3 docker push 06210621/exp_0621:latest 
+
+
+
+
+
 youtube video reffernce link https://www.youtube.com/watch?v=8uaDoMuDK6E&list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr
 
 
