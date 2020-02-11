@@ -60,7 +60,7 @@ docker run -ti --name my_first__NML_docker_conatiner nml
 d) upper command to rename your docker image
 
 
-Pushing Docker iamge to Docker Hub
+Pushing Docker local image to Docker Hub
 
 step1  create docker repo on docker hub
 
